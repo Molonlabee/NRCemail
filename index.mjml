@@ -44,7 +44,7 @@
     </mj-raw>
     <mj-section padding="0" background-color="#d3fe2a">
       <mj-column>
-        <mj-image padding="0" height="110px" src="http://127.0.0.1:5500/assets/NRClogo.jpeg" alt="image"/>
+        <mj-image padding="0" height="110px" src="assets/NRClogo.jpeg" alt="image"/>
       </mj-column>
     </mj-section>
     <mj-raw>
