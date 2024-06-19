@@ -52,7 +52,7 @@
     </mj-raw>
     <mj-section padding="0" background-color="#111111">
       <mj-column padding="0">
-        <mj-image padding="0" align="center" href="https://www.nike.com/nrc-app" src="http://127.0.0.1:5500/assets/NRC4.jpeg" width="600px" alt="nike nrc app" />
+        <mj-image padding="0" align="center" href="https://www.nike.com/nrc-app" src="assets/NRC4.jpeg" width="600px" alt="nike nrc app" />
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -61,7 +61,7 @@
     <mj-section padding="40px 0px" background-color="#ffffff" border-bottom="2px solid black">
       <mj-group>
         <mj-column padding="0">
-          <mj-image align="right" height="160px" width="200px" padding="0" src="http://127.0.0.1:5500/assets/phoneView.webp" alt="image"/>
+          <mj-image align="right" height="160px" width="200px" padding="0" src="assets/phoneView.webp" alt="image"/>
         </mj-column>
         <mj-column padding="20px">
           <mj-text padding="0px" align="left" font-size="18px" font-weight="bold" line-height="20px" padding="20px" font-family="Helvetica, open sans" color="#111111">See Your Progress</mj-text>
@@ -85,7 +85,7 @@
           </mj-text>
         </mj-column>
         <mj-column padding="0">
-          <mj-image align="left" height="160px" width="200px" padding="0" src="http://127.0.0.1:5500/pics/watch2.png" alt="image" />
+          <mj-image align="left" height="160px" width="200px" padding="0" src="assets/watch2.avif" alt="image" />
         </mj-column>
       </mj-group>
     </mj-section>
@@ -95,7 +95,7 @@
     <mj-section padding="40px 0px" background-color="#ffffff">
       <mj-group>
         <mj-column padding="0">
-          <mj-image align="right" padding="0" height="160px" width="200px" src="http://127.0.0.1:5500/assets/screenDisplay.jpeg" alt="image"/>
+          <mj-image align="right" padding="0" height="160px" width="200px" src="assets/screenDisplay.jpeg" alt="image"/>
         </mj-column>
         <mj-column padding="20px">
           <mj-text padding="0px" align="left" font-size="18px" font-weight="bold" line-height="20px" padding="20px" font-family="Helvetica, open sans" color="#111111">Keep Track of the Details</mj-text>
@@ -111,7 +111,7 @@
     </mj-raw>
     <mj-section padding="0" background-color="#ffffff">
       <mj-column padding="0">
-        <mj-image src="http://127.0.0.1:5500/assets/NRC3.jpeg" padding="0" alt="image"/>
+        <mj-image src="assets/NRC3.jpeg" padding="0" alt="image"/>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -119,7 +119,7 @@
     </mj-raw>
     <mj-section padding="0" background-color="#ffffff">
       <mj-column padding="0">
-        <mj-image src="http://127.0.0.1:5500/assets/qrCode.webp" padding="50px 0px 0px 0px" alt="QR code image"/>
+        <mj-image src="assets/qrCode.webp" padding="50px 0px 0px 0px" alt="QR code image"/>
         <mj-text align="center" padding="0px">Scan the code to download the app.</mj-text>
       </mj-column>
     </mj-section>
