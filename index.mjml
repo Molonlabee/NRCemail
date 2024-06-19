@@ -1,0 +1,158 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      .link {
+        color: #111111;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 20px;
+      }
+
+      .link:hover {
+        font-weight: bold;
+        color: #71797E;
+        text-decoration: underline;
+      }
+      .footer-link{
+        color: #71797E;
+        font-size: 10px;
+        text-decoration: none;
+      }
+      .footer-link:hover{
+        text-decoration: inherit;
+        color: #111111;
+      }
+      @media screen and (max-width:480px) {}
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#edecec">
+    <mj-raw>
+      <!-- #section -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column background-color="#111111">
+        <mj-text align="center" letter-spacing="4px" font-size="10px" font-weight="bold" color="#ffffff">JOIN THE CLUB #NIKERUNCLUB</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- run club banner -->
+    </mj-raw>
+    <mj-section padding="0" background-color="#d3fe2a">
+      <mj-column>
+        <mj-image padding="0" height="110px" src="http://127.0.0.1:5500/assets/NRClogo.jpeg" alt="image"/>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- hero section -->
+    </mj-raw>
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-image padding="0" align="center" href="https://www.nike.com/nrc-app" src="http://127.0.0.1:5500/assets/NRC4.jpeg" width="600px" alt="nike nrc app" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- featers row 1 -->
+    </mj-raw>
+    <mj-section padding="40px 0px" background-color="#ffffff" border-bottom="2px solid black">
+      <mj-group>
+        <mj-column padding="0">
+          <mj-image align="right" height="160px" width="200px" padding="0" src="http://127.0.0.1:5500/assets/phoneView.webp" alt="image"/>
+        </mj-column>
+        <mj-column padding="20px">
+          <mj-text padding="0px" align="left" font-size="18px" font-weight="bold" line-height="20px" padding="20px" font-family="Helvetica, open sans" color="#111111">See Your Progress</mj-text>
+          <mj-text padding="0px" align="left" font-size="14px" font-weight="normal" line-height="20px" padding="20px" font-family="Helvetica, open sans" color="#111111">Track your runs, get coaching that adapts to your and bring your friends along for the ride. It's all possible with the Nike Run Club App.</mj-text>
+          <mj-text align="left" padding="10px 0px">
+            <a href="https://www.nike.com/nrc-app" class="link" alt="link nike NRC site">Learn More &rarr;</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- featers row 2 -->
+    </mj-raw>
+    <mj-section padding="40px" background-color="#ffffff" border-bottom="2px solid black">
+      <mj-group>
+        <mj-column padding="20px">
+          <mj-text padding="0px" align="right" font-size="18px" font-weight="bold" line-height="20px" padding="20px" font-family="Helvetica, open sans" color="#111111">Made to Move</mj-text>
+          <mj-text padding="0px" align="right" font-size="14px" font-weight="normal" line-height="20px" padding="20px" font-family="Helvetica, open sans" color="#111111">NRC and the Apple Watch Nike are your teammates for a better run. Get all the metrics and notifications you need, straight from your wrist.</mj-text>
+          <mj-text align="right" padding="10px 0px">
+            <a href="https://www.nike.com/apple-watch" class="link" alt="link nike NRC watch">Learn More &rarr;</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0">
+          <mj-image align="left" height="160px" width="200px" padding="0" src="http://127.0.0.1:5500/assets/watch2.avif" alt="image" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- featers row 3 -->
+    </mj-raw>
+    <mj-section padding="40px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="0">
+          <mj-image align="right" padding="0" height="160px" width="200px" src="http://127.0.0.1:5500/assets/screenDisplay.jpeg" alt="image"/>
+        </mj-column>
+        <mj-column padding="20px">
+          <mj-text padding="0px" align="left" font-size="18px" font-weight="bold" line-height="20px" padding="20px" font-family="Helvetica, open sans" color="#111111">Keep Track of the Details</mj-text>
+          <mj-text padding="0px" align="left" font-size="14px" font-weight="normal" line-height="20px" padding="20px" font-family="Helvetica, open sans" color="#111111">NRC pays attention to your pace, location, distance, elevation, heart rate, and mile splits — so you can pay attention to the scenery.</mj-text>
+          <mj-text align="left" padding="10px 0px">
+            <a href="https://www.nike.com/nrc-app" class="link" alt="link nike NRC site">Learn More &rarr;</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- 2nd hero section -->
+    </mj-raw>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-image src="http://127.0.0.1:5500/assets/NRC3.jpeg" padding="0" alt="image"/>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- App QR section -->
+    </mj-raw>
+    <mj-section padding="0" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-image src="http://127.0.0.1:5500/assets/qrCode.webp" padding="50px 0px 0px 0px" alt="QR code image"/>
+        <mj-text align="center" padding="0px">Scan the code to download the app.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- App Store section -->
+    </mj-raw>
+    <mj-section padding="40px 0px" background-color="#ffffff">
+      <mj-group>
+        <mj-column padding="0px 5px">
+          <mj-image padding="0" align="right" width="150px" height="43px" href="https://apps.apple.com/us/app/nike-run-club-running-coach/id387771637" src="http://127.0.0.1:5500/assets/appstore.png"  alt="apple store link"/>
+        </mj-column>
+        <mj-column padding="0px 5px">
+          <mj-image padding="0" align="left" width="150px" height="43px" href="https://play.google.com/store/apps/details?id=com.nike.plusgps&hl=en_US" src="http://127.0.0.1:5500/assets/android.png" alt="android store link"/>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+      <!-- Footer section -->
+    </mj-raw>
+    <mj-section padding="20px 0 0" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-size="10px" align="center">
+          &copy; 2024 Nike, Inc. All Rights Reserved
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 60px" background-color="#ffffff">
+      <mj-column padding="0">
+        <mj-text font-size="10px" align="center">
+          <a href="#" class="footer-link" alt="unsubscribe">Unsubscribe</a> |
+          <a href="#" class="footer-link" alt="email prefrences">Manage Your Email Prefrences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
